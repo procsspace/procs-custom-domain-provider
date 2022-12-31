@@ -7,7 +7,6 @@ const app = express();
 app.get('*', (req, res) => {
   const hostnames = [
     "akeno",
-    "jay"
   ];
 
   const hostname = req.subdomains[0];
