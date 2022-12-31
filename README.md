@@ -9,7 +9,7 @@ The subdomain provider for [procs.space](https://procs.space/u/procs)
 #### Redirect
 
 ```http
-  GET /*
+  GET */
 ```
 
 | Parameter | Type     | Description                |
